@@ -6,3 +6,20 @@
 hahamal sehen
 
 und noch ein test
+
+irgend was anderes
+
+peter ist lustig
+
+neuer commit
+
+noch ein text
+
+dochkein error
+
+
+mein error
+
+neuer error test
+
+was geht
